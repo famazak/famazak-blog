@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://famazak.github.io/famazak-blog/"
 languageCode = "en-us"
 title = "famazak"
 theme="archie"
