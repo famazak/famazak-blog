@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>famazak</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on famazak</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© famazak</copyright>
+    <lastBuildDate>Sun, 15 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Running a Python Application in a Docker Container</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>Header testing&#xA;Header Again testing&#xA;Section test test test</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>I&amp;rsquo;m a developer based near Philadelphia, PA. I enjoy technology and writing about the things that I&amp;rsquo;m interested in is one of my favorite ways to learn. Outside of tech and my day job, you&amp;rsquo;ll probably find me playing World of Warcraft, watching football or soccer, or just hanging out with my family.</description>
+    </item>
+  </channel>
+</rss>

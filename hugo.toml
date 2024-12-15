@@ -1,0 +1,42 @@
+baseURL = "https://example.com"
+languageCode = "en-us"
+title = "famazak"
+theme="archie"
+copyright = "© famazak"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+[params]
+	mode="auto"
+	useCDN=false
+	subtitle = "Developer; dad; occasionally writes about tech stuff."
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/famazak"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/famazak/"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
